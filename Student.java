@@ -1,8 +1,8 @@
-class Student1 extends Person {
+class Student extends Person {
     private String Program;
     private int Year;
 
-    public Student1(String Name, String Address, String Program, int Year) {
+    public Student(String Name, String Address, String Program, int Year) {
         this.Name = Name;
         this.Address = Address;
         this.Program = Program;

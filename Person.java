@@ -1,4 +1,4 @@
-class Person0 {
+class Person {
     public String Name;
     public String Address;
 

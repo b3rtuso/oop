@@ -1,8 +1,8 @@
-class Staff0 extends Person {
+class Staff extends Person {
     private String School;
     private double Salary;
 
-    public Staff0(String Name, String Address, String School, double Salary) {
+    public Staff(String Name, String Address, String School, double Salary) {
         this.Name = Name;
         this.Address = Address;
         this.School = School;

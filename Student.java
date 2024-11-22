@@ -1,4 +1,4 @@
-class Student0 {
+class Student {
     private int Student_Id;
     private String Name;
 
